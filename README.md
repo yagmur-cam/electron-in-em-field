@@ -93,7 +93,7 @@ The simplest case, a uniform field, produces a helix, circular gyration at fixed
 radius combined with free motion along the field line, because the magnetic force
 does no work:
 
-![uniform B](figures/uniform_3d.png)
+<img src="figures/uniform_3d.png" width="500">
 
 ### Quantum: reduction to a tridiagonal eigenproblem
 
